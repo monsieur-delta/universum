@@ -6,7 +6,7 @@ This article is about a concept of The Absolute Universum, that proposes a new p
 
 # Manifest
 
-Further I will use word "Universum" to mark The Absolute Universum object. Also, I will use word "researcher" to mark a subject, subjective reality; I will use the plural in relation to subjective reality conditionally and in parentheses, based on the assumption that in addition to the subjective reality of the researcher of this article, there are other subjective realities of other individuals (see my Cogito ergo sum article).
+Further I will use word "Universum" to mark The Absolute Universum object. Also, I will use word "researcher" to mark a subject, subjective reality; I will use the plural in relation to subjective reality conditionally and in parentheses, based on the assumption that in addition to the subjective reality of the researcher of this article, there are other subjective realities of other individuals (see my [Cogito ergo sum](https://telegra.ph/Cogito-ergo-sum-05-17) article).
 
 We do not use verb "exist" for this so as everything, literally, exist "inside" Universum. Word "exist" can't be applied for representing presence of Universum, instead verb "is" can be used as most suitable verb in English, so as "existance" is a characteristics of objects inside Universum. So we talk about presence of Universum rather than its existance.
 
@@ -65,8 +65,8 @@ Below, I present you a fact map that describes Universum for it to become knowab
 ... (In Progress)
 
 # Links
-i. Универсум / Wikipedia (ru)
+**i**. [Универсум / Wikipedia](https://ru.m.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D1%83%D0%BC) (ru)
 
-ii. Reality / Wikipedia
+**ii**. [Reality / Wikipedia](https://en.m.wikipedia.org/wiki/Reality)
 
-iii. Cogito ergo sum / Telegraph, Ihor Delta
+**iii**. [Cogito ergo sum / Telegraph, Ihor Delta](https://telegra.ph/Cogito-ergo-sum-05-17)
