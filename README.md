@@ -2,7 +2,7 @@
 
 This article is about a concept of The Absolute Universum, that proposes a new point of view on our reality, universe, being. It is knowable through a set of facts about it.
 
-*The meaning of the word universum should be understood as “the totality of everything” in the context of this article
+***The meaning of the word universum should be understood as “the totality of everything” in the context of this article**
 
 # Manifest
 
@@ -10,7 +10,7 @@ Further I will use word "Universum" to mark The Absolute Universum object. Also,
 
 We do not use verb "exist" for this so as everything, literally, exist "inside" Universum. Word "exist" can't be applied for representing presence of Universum, instead verb "is" can be used as most suitable verb in English, so as "existance" is a characteristics of objects inside Universum. So we talk about presence of Universum rather than its existance.
 
-"The absolute universum is present." - axiom
+> "The absolute universum is present." - axiom
 
 It presupposes the presence of an environment that is "external" to the researcher.
 
@@ -24,7 +24,7 @@ Below, I present you a fact map that describes Universum for it to become knowab
 
 # Fact Map
 
-*Fact map implies additions as I reflect and collect facts about Universum.
+***Fact map implies additions as I reflect and collect facts about Universum.**
 
 *The word "inside" is used in a figurative sense, for ease of imagination.
 
