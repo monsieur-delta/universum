@@ -65,8 +65,8 @@ Below, I present you a fact map that describes Universum for it to become knowab
 ... (In Progress)
 
 # Links
-**i**. [Универсум / Wikipedia](https://ru.m.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D1%83%D0%BC) (ru)
+**_i_**. [Универсум / Wikipedia](https://ru.m.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D1%83%D0%BC) (ru)
 
-**ii**. [Reality / Wikipedia](https://en.m.wikipedia.org/wiki/Reality)
+**_ii_**. [Reality / Wikipedia](https://en.m.wikipedia.org/wiki/Reality)
 
-**iii**. [Cogito ergo sum / Telegraph, Ihor Delta](https://telegra.ph/Cogito-ergo-sum-05-17)
+**_iii_**. [Cogito ergo sum / Telegraph, Ihor Delta](https://telegra.ph/Cogito-ergo-sum-05-17)
