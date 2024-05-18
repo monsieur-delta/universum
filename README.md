@@ -1,6 +1,6 @@
 # The Absolute Universum
 
-This article is about a concept of The Absolute Universum, that proposes a new point of view on our reality, universe, being. It is knowable through a set of facts about it.
+This article is about a concept of The Absolute Universum, that proposes a new point of view on our reality, universe, being. It is knowable through a set of facts/narratives about it.
 
 ***The meaning of the word universum should be understood as “the totality of everything” in the context of this article**
 
