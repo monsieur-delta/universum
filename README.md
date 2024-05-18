@@ -72,6 +72,8 @@ Below, I present you a fact map that describes Universum for it to become knowab
 
 - the boundaries of objects within ``Universum`` are speculative.  We can say that “inside” everything is interconnected.
 
+- knowable intuitively, not empirically.
+
 ## Assumption of Researcher-Reality Relations
 
 ![Assumption of Researcher-Reality Relations image](assumption-of-researcher-reality-relations.jpg)
