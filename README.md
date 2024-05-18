@@ -6,7 +6,7 @@ _Copyright © 2024 Ihor Delta. All Rights Reserved._
 
 This article is about a concept of _The Absolute Universum_, that proposes a new point of view on our reality, _Universe_, being (see **[Links](#links)**). It is knowable through a set of facts/narratives about it (see **[Fact Map](#fact-map)**).
 
-***The meaning of the word universum should be understood as “the totality of everything” in the context of this article**
+***The meaning of the word universum should be understood as “the totality of everything” in the context of this article.**
 
 # Manifest
 
@@ -36,13 +36,13 @@ Below, I present you a fact map that describes Universum for it to become knowab
 
 - ``Universum`` contains literally everything.
 
-- contains our spacetime universum (our reality) and everything that is aside of it (assumption)
+- contains our spacetime universum (our reality) and everything that is aside of it (assumption).
 
 - imaginable as "space" for everything. 
 
 - not limited of spacetime basement/nature. 
 
-- those, "inside" of what, existance is possible (see thesis of Manifest about presence of ``Universum``)
+- those, "inside" of what, existance is possible (see thesis of Manifest about presence of ``Universum``).
 
 - has characteristic of limitlessness above spacetime limits. 
 
@@ -66,7 +66,7 @@ Below, I present you a fact map that describes Universum for it to become knowab
 
 - precence of ``Universum`` presupposes the presence of an "environment" that is "external" to the researcher.
 
-- because  the existence of an observable reality is just an assumption, then ``Universum`` can determine the boundaries of the researcher’s reality
+- because  the existence of an observable reality is just an assumption, then ``Universum`` can determine the boundaries of the researcher’s reality.
 
 ## Assumption of Researcher-Reality Relations
 
