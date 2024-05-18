@@ -1,3 +1,7 @@
+_Copyright © 2024 Ihor Delta. All Rights Reserved._
+
+**Important**: It's a fiction. No warranties. 
+
 # The Absolute Universum
 
 This article is about a concept of The Absolute Universum, that proposes a new point of view on our reality, universe, being. It is knowable through a set of facts/narratives about it.
