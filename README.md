@@ -60,7 +60,7 @@ Below, I present you a fact map that describes Universum for it to become knowab
 
 - objects "inside" Universum exist relatively to each other.
 
-- researcher explore Universum using the qualia that arise dynamically in the process of thinking (see **Assumption of Researcher-Reality Relations** image).
+- researcher explore Universum using the qualia that arise dynamically in the process of thinking (see **[Assumption of Researcher-Reality Relations](#assumption-of-researcher-reality-relations)** image).
 
 - the presence of ``Universum`` presupposes the presence of an "externality" in relation to the researcher (including his thinking process and qualia dynamics)
 
