@@ -78,7 +78,7 @@ Below, I present you a fact map that describes Universum for it to become knowab
 
 ![Assumption of Researcher-Reality Relations image](assumption-of-researcher-reality-relations.jpg)
 
-This assumption presupposes the process of emergence of empirical knowledge, and the thought process over the dynamics of qualia, which arose as a result of the empiricism of the researcher’s reality in relation to possible objective reality.
+This assumption presupposes the process of emergence of empirical knowledge, and the thought process over the dynamics of qualia, which arose as a result of the empiricism of the researcher’s reality in relation to possible existing objective reality.
 
 # Links
 **_i_**. [Универсум / Wikipedia](https://ru.m.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D1%83%D0%BC) (ru)
