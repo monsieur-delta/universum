@@ -62,9 +62,11 @@ Below, I present you a fact map that describes Universum for it to become knowab
 
 - researcher explore Universum using the qualia that arise dynamically in the process of thinking (see **[Assumption of Researcher-Reality Relations](#assumption-of-researcher-reality-relations)** image).
 
-- the presence of ``Universum`` presupposes the presence of an "externality" in relation to the researcher (including his thinking process and qualia dynamics)
+- the presence of ``Universum`` presupposes the presence of an "externality" in relation to the researcher (including his thinking process and qualia dynamics).
 
 - precence of ``Universum`` presupposes the presence of an "environment" that is "external" to the researcher.
+
+- because  the existence of an observable reality is just an assumption, then ``Universum`` can determine the boundaries of the researcher’s reality
 
 ## Assumption of Researcher-Reality Relations
 
