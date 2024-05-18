@@ -15,10 +15,10 @@ Copyright statements must be included in:
 - ``LICENSE`` file in the root of the repository.
 - Headers of all source code files.
 
-Each copyright holder must have their own copyright statement::
+Each copyright holder must have their own copyright statement:
 
-    Copyright (C) 2015-2019 CERN
-    Copyright (C) 2019 Some company
+    Copyright © 2015-2019 CERN
+    Copyright © 2019 Some company
 
 **Copyright holders**
 
