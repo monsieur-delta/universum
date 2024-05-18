@@ -4,7 +4,7 @@ _Copyright © 2024 Ihor Delta. All Rights Reserved._
 
 # The Absolute Universum
 
-This article is about a concept of _The Absolute Universum_, that proposes a new point of view on our reality, _Universe_, being. It is knowable through a set of facts/narratives about it (see **[Fact Map](#fact-map)**).
+This article is about a concept of _The Absolute Universum_, that proposes a new point of view on our reality, _Universe_, being (see **[Links](#links)**). It is knowable through a set of facts/narratives about it (see **[Fact Map](#fact-map)**).
 
 ***The meaning of the word universum should be understood as “the totality of everything” in the context of this article**
 
