@@ -70,6 +70,8 @@ Below, I present you a fact map that describes Universum for it to become knowab
 
 - because  the existence of an observable reality is just an assumption, then ``Universum`` can determine the boundaries of the researcher’s reality.
 
+- the boundaries of objects within ``Universum`` are speculative.  We can say that “inside” everything is interconnected.
+
 ## Assumption of Researcher-Reality Relations
 
 ![Assumption of Researcher-Reality Relations image](assumption-of-researcher-reality-relations.jpg)
