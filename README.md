@@ -16,7 +16,7 @@ We do not use verb "exist" for this so as everything, literally, exist "inside" 
 
 > "The Absolute Universum is present." - axiom
 
-It presupposes the presence of an environment that is "external" to the researcher.
+It presupposes the presence of an environment that is "external" to the researcher, at the same time it can be a part of researcher's subjective world if assumption about existance of objective word is false. 
 
 Following the concept of _The Absolute Universum_, our spacetime based material universum (_Universe_) is only one of the possible universums existing "inside" ``Universum``.
 
