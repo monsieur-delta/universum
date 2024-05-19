@@ -62,9 +62,9 @@ To fully understand this concept I recommend to imagine _The Absolute Universum_
 
 - borders of objects "inside" of Universum is where we personally define them (relativity). 
 
-- objects "inside" Universum exist relatively to each other.
+- objects "inside" ``Universum`` exist relatively to each other.
 
-- researcher explore Universum using the qualia that arise dynamically in the process of thinking (see **[Assumption of Researcher-Reality Relations](#assumption-of-researcher-reality-relations)** image).
+- researcher explore ``Universum`` using the qualia that arise dynamically in the process of thinking (see **[Assumption of Researcher-Reality Relations](#assumption-of-researcher-reality-relations)** image).
 
 - the presence of ``Universum`` presupposes the presence of an "externality" in relation to the researcher (including his thinking process and qualia dynamics).
 
