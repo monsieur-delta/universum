@@ -90,7 +90,7 @@ The conclusion that we can draw from observations as a researcher is the followi
 
 Their existence is determined by the dynamics of qualia, “within” which this tendency is found.
 
-In this context, we can say that the universe is absolutizing - The Absolutizing Universum, because  there is already a process of existence “inside/within” ``Universum``.
+In this context, we can say that the universe is absolutizing - _The Absolutizing Universum_, because  there is already a process of existence “inside/within” ``Universum``.
 
 # Links
 **_i_**. [Универсум / Wikipedia](https://ru.m.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D1%83%D0%BC) (ru)
