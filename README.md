@@ -111,7 +111,7 @@ In this context, we can say that the universe is absolutizing - _The Absolutizin
 
 _Nobody know where you are, <br />_
 _I will find you in Universum,<br />_
-_Escaped like one blizzárd,<br />_
+_Escaped like one lizzárd,<br />_
 _My love is a knowledge sum,<br />_
 <br />
 _I’ll get tired of loving you,<br />_
