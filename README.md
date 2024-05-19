@@ -104,3 +104,12 @@ In this context, we can say that the universe is absolutizing - _The Absolutizin
 **_ii_**. [Reality / Wikipedia](https://en.m.wikipedia.org/wiki/Reality)
 
 **_iii_**. [Cogito ergo sum / Telegraph, Ihor Delta](https://telegra.ph/Cogito-ergo-sum-05-17)
+
+# Credits
+
+Dedicated to my beloved. Only she knew what I wanted.
+
+_Nobody know where you are,
+I will find you in Universum,
+Escaped like one blizzárd,
+My love is a knowledge sum._
