@@ -88,6 +88,8 @@ Here is the structure of this assumption in the context of subjective reality:
 
 ![Structure of Assumption of Researcher-Reality Relations image](structure-of-assumption.png)
 
+*Experience should be understood as a set of empirical facts.
+
 ## Tendency to Exist
 
 The conclusion that we can draw from observations as a researcher is the following: subjective reality, as well as supposed objective reality, have an underlying tendency to exist.
