@@ -74,6 +74,8 @@ Below, I present you a fact map that describes Universum for it to become knowab
 
 - knowable intuitively, not empirically.
 
+- objects "inside" ``Universum`` have a tendency to exist (see **[Tendency to Exist](#tendency-to-exist)**)
+
 ## Assumption of Researcher-Reality Relations
 
 ![Assumption of Researcher-Reality Relations image](assumption-of-researcher-reality-relations.jpg)
