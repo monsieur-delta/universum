@@ -84,6 +84,10 @@ To fully understand this concept I recommend to imagine _The Absolute Universum_
 
 This assumption presupposes the process of emergence of empirical knowledge, and the thought process over the dynamics of qualia, which arose as a result of the empiricism of the researcher’s reality in relation to possible existing objective reality.
 
+Here is the structure of this assumption in the context of subjective reality:
+
+![Structure of Assumption of Researcher-Reality Relations image](structure-of-assumption.png)
+
 ## Tendency to Exist
 
 The conclusion that we can draw from observations as a researcher is the following: subjective reality, as well as supposed objective reality, have an underlying tendency to exist.
