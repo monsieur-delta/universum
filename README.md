@@ -28,7 +28,7 @@ I daresay that some researchers may find this concept similar to the concept of 
 
 Below, I present you a fact map that describes ``Universum`` for it to become knowable for you.
 
-To fully understand this concept I recommend to imagine _The Absolute Universum_ so as its understanding is located at the border of spacetime nature of imagination/thinking.
+To fully understand this concept I recommend to imagine _The Absolute Universum_ so as its understanding is located at the border of spacetime nature of imagination/thinking and theoretical understanding of reality. 
 
 # Fact Map
 
