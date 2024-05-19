@@ -80,6 +80,12 @@ Below, I present you a fact map that describes Universum for it to become knowab
 
 This assumption presupposes the process of emergence of empirical knowledge, and the thought process over the dynamics of qualia, which arose as a result of the empiricism of the researcher’s reality in relation to possible existing objective reality.
 
+## Tendency to Exist
+
+The conclusion that we can draw from observations as a researcher is the following: subjective reality, as well as supposed objective reality, have an underlying tendency to exist.
+
+Their existence is determined by the dynamics of qualia, “within” which this tendency is found.
+
 # Links
 **_i_**. [Универсум / Wikipedia](https://ru.m.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D1%83%D0%BC) (ru)
 
