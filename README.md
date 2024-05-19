@@ -26,7 +26,9 @@ Has a characteristic of limitlessness above like spacetime limits, so according 
 
 I daresay that some researchers may find this concept similar to the concept of _God_.  Based on the anthropomorphism of the concept of God, it is not entirely suitable; the concept of the supernatural as a phenomenon, the study of which involves mental going beyond the boundaries of our universum - our _Universe_, is better suited here, and it is only appropriate if you simply want to associate a given concept with some more familiar concept.
 
-Below, I present you a fact map that describes Universum for it to become knowable for you. 
+Below, I present you a fact map that describes Universum for it to become knowable for you.
+
+To fully understand this concept I recommend to imagine _The Absolute Universum_ so as its understanding is located on the border of spacetime nature of imagination/thinking.
 
 # Fact Map
 
@@ -46,7 +48,7 @@ Below, I present you a fact map that describes Universum for it to become knowab
 
 - those, "inside" of what, existance is possible (see thesis of Manifest about presence of ``Universum``).
 
-- has characteristic of limitlessness above spacetime limits. 
+- has characteristic of limitlessness above spacetime limits, has no boundaries 
 
 - ``Universum`` includes all objects that cannot be known empirically. 
 
