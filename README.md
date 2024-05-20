@@ -52,7 +52,7 @@ To fully understand this concept I recommend to imagine _The Absolute Universum_
 
 - ``Universum`` includes all objects that cannot be known empirically. 
 
-- its nature is not physical, in the sense of possessing its own laws and including at least one material universum (e.g. _Universe_). 
+- its nature is not physical, in the sense of possessing its own laws and including at least one universum (e.g. researcher's reality). 
 
 - is a whole that is speculatively divisible into parts, but is not part of something as a whole. 
 
