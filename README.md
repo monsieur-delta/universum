@@ -58,7 +58,7 @@ To fully understand this concept I recommend to imagine _The Absolute Universum_
 
 - not represented within the limits/borders that can be imagined.
 
-- "existance" is a characteristic that is applied to objects "inside" Universum, when verb "exist" is not applicable to ``Universum`` itself.
+- "existance" is a characteristic that is applied to objects "inside" ``Universum``, when verb "exist" is not applicable to ``Universum`` itself.
 
 - borders of objects "inside" of Universum is where we personally define them (relativity). 
 
