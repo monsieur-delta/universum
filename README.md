@@ -107,7 +107,7 @@ In this context, we can say that the universe is absolutizing - _The Absolutizin
 
 # Credits
 
-**Dedicated to my beloved. Only she knew what I wanted.**
+**Dedicated to my beloved ♥️ Only she knew what I wanted.**
 
 _Nobody know where you are, <br />_
 _I will find you in Universum,<br />_
