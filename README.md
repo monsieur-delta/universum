@@ -24,7 +24,7 @@ Following the concept of _The Absolute Universum_, our spacetime based material 
 
 Has a characteristic of limitlessness above like spacetime limits, so according to this characteristic can include subjective reality(ies) of researcher(s).
 
-I daresay that some researchers may find this concept similar to the concept of _God_.  Based on the anthropomorphism of the concept of God, it is not entirely suitable; the concept of the supernatural as a phenomenon, the study of which involves mental going beyond the boundaries of our universum - our _Universe_, is better suited here, and it is only appropriate if you simply want to associate a given concept with some more familiar concept.
+I daresay that some researchers may find this concept similar to the concept of _God_.  Based on the anthropomorphism of the concept of God, it is not entirely suitable; the concept of the supernatural as a phenomenon, the study of which involves mental going beyond the boundaries of our universum - our _Universe_, is better suited here, and it is only appropriate if you simply want to associate a given concept with some more familiar concept. The best concept for associations is the space of thinking.
 
 Below, I present you a fact map that describes ``Universum`` for it to become knowable for you.
 
