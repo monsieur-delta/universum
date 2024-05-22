@@ -100,6 +100,8 @@ Here is the structure of this assumption in the context of subjective reality:
 
 *Experience should be understood as a set of empirical facts.
 
+Another fact about reality is about its tendency to change (see [Ethics of Existance] for more information).
+
 ## Tendency to Exist
 
 The conclusion that we can draw from observations as a researcher is the following: subjective reality, as well as supposed objective reality, have an underlying tendency to exist.
