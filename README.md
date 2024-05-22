@@ -100,7 +100,7 @@ Here is the structure of this assumption in the context of subjective reality:
 
 *Experience should be understood as a set of empirical facts.
 
-Another fact about reality is about its tendency to change (see [Ethics of Existance] for more information).
+Another fact about reality is about its tendency to change (see [Ethics of Existance](https://github.com/ihor-delta/ex-ethics/blob/main/README.md#tendency-to-change) for more information).
 
 ## Tendency to Exist
 
