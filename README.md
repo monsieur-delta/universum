@@ -4,6 +4,16 @@ _Copyright © 2024 Ihor Delta. All Rights Reserved._
 
 This project is about a concept of "externality", relatively to a researcher's reality, space with no spacetime limits and as follows no our physical world limits. It's a product of thinking in philosophical manner made by Ihor Delta. Can be used as ontological theory for explaining of how it is. Base idea created following the principle of doubt of René Descartes and do not violate his conclusion of assurance of presence only subjective reality of researcher for sure so as this "externality" relation is flexible (possible to be a frame for subjective reality defining its boundaries), and its position, relatively to researcher, depends on the theoretical ideology of one.
 
+# Contents
+
+- [The Absolute Universum](#the-absolute-universum)<br />
+- [Manifest](#manifest)<br />
+- [Fact Map](#fact-map)<br />
+- [Assumption of Researcher-Reality Relations](#assumption-of-researcher-reality-relations)<br />
+- [Tendency to Exist](#tendency-to-exist)<br />
+- [Links](#links)<br />
+- [Credits](#credits)
+
 # The Absolute Universum
 
 This article is about a concept of _The Absolute Universum_, that proposes a new point of view on our reality, _Universe_, being (see **[Links](#links)**). It is knowable through a set of facts/narratives about it (see **[Fact Map](#fact-map)**).
