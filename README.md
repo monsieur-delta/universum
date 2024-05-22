@@ -9,8 +9,8 @@ This project is about a concept of "externality", relatively to a researcher's r
 - [The Absolute Universum](#the-absolute-universum)<br />
 - [Manifest](#manifest)<br />
 - [Fact Map](#fact-map)<br />
-- [Assumption of Researcher-Reality Relations](#assumption-of-researcher-reality-relations)<br />
-- [Tendency to Exist](#tendency-to-exist)<br />
+  - [Assumption of Researcher-Reality Relations](#assumption-of-researcher-reality-relations)<br />
+  - [Tendency to Exist](#tendency-to-exist)<br />
 - [Links](#links)<br />
 - [Credits](#credits)
 
