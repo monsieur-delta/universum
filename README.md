@@ -117,6 +117,8 @@ In this context, we can say that ``Universum`` is absolutizing - _The Absolutizi
 
 **_iii_**. [Cogito ergo sum / Telegraph, Ihor Delta](https://telegra.ph/Cogito-ergo-sum-05-17)
 
+_**iv.**_ [Ontology / Wikipedia](https://en.m.wikipedia.org/wiki/Ontology)
+
 # Credits
 
 **Dedicated to my beloved ♥️ Only she knew what I wanted.**
