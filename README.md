@@ -88,6 +88,8 @@ To fully understand this concept I recommend to imagine _The Absolute Universum_
 
 - objects "inside" ``Universum`` have a tendency to exist (see **[Tendency to Exist](#tendency-to-exist)**)
 
+- everything happens in meaning of having a characteristic of existence in relation to ``Universum``. No objects, including reality, "inside" ``Universum`` which has no this characterstic.
+
 ## Assumption of Researcher-Reality Relations
 
 ![Assumption of Researcher-Reality Relations image](assumption-of-researcher-reality-relations.png)
