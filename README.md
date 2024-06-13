@@ -90,6 +90,8 @@ To fully understand this concept I recommend to imagine _The Absolute Universum_
 
 - everything happens in meaning of having a characteristic of existence in relation to ``Universum``. No objects, including reality, "inside" ``Universum`` which has no this characterstic.
 
+- the concept of ``Universum`` proclaims the relation of existence of objects in it, following which all objects are in the relation “exists in ``Universum``” to each other
+
 ## Assumption of Researcher-Reality Relations
 
 ![Assumption of Researcher-Reality Relations image](assumption-of-researcher-reality-relations.png)
