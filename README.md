@@ -1,4 +1,4 @@
-_Copyright © 2024 Ihor Delta. All Rights Reserved._
+_Copyright © 2024 Dax Delta. All Rights Reserved._
 
 **Important**: It's a fiction. No warranties. 
 
